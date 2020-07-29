@@ -1,0 +1,1 @@
+DEAD SIMPLE Docker template file
